@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base:"/Prabhul-portfolio",
+  base:"/",
   server: {
     allowedHosts: [
       '.trycloudflare.com'
