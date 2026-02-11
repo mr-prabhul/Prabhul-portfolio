@@ -1,0 +1,78 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": [
+        "Hello! 👋 I'm Prabhul’s AI portfolio assistant. Ask me anything about his work or skills."]
+        },
+        {
+            
+      "tag": "about_prabhul",
+      "patterns": [
+        "who are you",
+        "tell me about Prabhul",
+        "who is prabhul",
+        "about prabhul"
+      ],
+      "responses": [
+        "Prabhul P S is a Data Scientist and ML Engineer specializing in end-to-end machine learning solutions, from data preprocessing to deployment."]
+        },
+        {
+            "tag": "Skills",
+      "patterns": [
+        "what are your skills",
+        "technical skills",
+        "technologies you use",
+        "what tools do you know"
+      ],
+      "responses": [
+        "Prabhul works with Python, SQL, TensorFlow, Scikit-learn, NLP, Computer Vision, Streamlit, FastAPI, and AWS and also he is an Data Analyst works with  dashboarding tools like Power BI, Excel, Tableau."]
+        },
+        {
+            "tag": "deployment",
+      "patterns": [
+        "model deployment",
+        "how do you deploy models",
+        "deployment tools"
+      ],
+      "responses": [
+        "Prabhul deploys ML models using Streamlit and FastAPI.",
+        "He focuses on building scalable and user-friendly ML applications."
+      ]
+        },
+        {
+            "tag": "education",
+      "patterns": [
+        "education",
+        "your degree",
+        "what did you study"
+      ],
+      "responses": [
+        "Prabhul holds a Bachelor's degree in Commerce (Finance) and later specialized in Data Science.",
+        "He completed professional Data Science training at Techolas Technologies."
+      ]
+        },
+        {
+            "tag": "contact",
+      "patterns": [
+        "contact",
+        "how can i reach you",
+        "email",
+        "github",
+        "linkedin"
+      ],
+      "responses": [
+        "You can reach Prabhul via email at ichayanprabhul2724@gmail.com or connect on LinkedIn and GitHub.",
+        "Check out his GitHub profile to explore real-world ML and data science projects."
+      ]
+        },
+        {
+            "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "Sorry, I didn’t understand that. Could you ask about Prabhul’s skills, deployment,education,contact"
+      ]
+        }
+    ]
+}

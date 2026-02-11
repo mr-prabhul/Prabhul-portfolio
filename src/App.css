@@ -1,0 +1,7 @@
+.Main {
+  padding: 1rem;
+}
+#root {
+  position: relative;
+  z-index: 1;
+}   
