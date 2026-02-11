@@ -21,6 +21,7 @@
         {
             "tag": "Skills",
       "patterns": [
+        "skills",
         "what are your skills",
         "technical skills",
         "technologies you use",
@@ -37,8 +38,7 @@
         "deployment tools"
       ],
       "responses": [
-        "Prabhul deploys ML models using Streamlit and FastAPI.",
-        "He focuses on building scalable and user-friendly ML applications."
+        "Prabhul deploys ML models using Streamlit and FastAPI.He focuses on building scalable and user-friendly ML applications."
       ]
         },
         {
@@ -49,8 +49,7 @@
         "what did you study"
       ],
       "responses": [
-        "Prabhul holds a Bachelor's degree in Commerce (Finance) and later specialized in Data Science.",
-        "He completed professional Data Science training at Techolas Technologies."
+        "Prabhul holds a Bachelor's degree in Commerce (Finance) and later specialized in Data Science. He completed professional Data Science training at Techolas Technologies."
       ]
         },
         {
@@ -63,8 +62,7 @@
         "linkedin"
       ],
       "responses": [
-        "You can reach Prabhul via email at ichayanprabhul2724@gmail.com or connect on LinkedIn and GitHub.",
-        "Check out his GitHub profile to explore real-world ML and data science projects."
+        "You can reach Prabhul via email at ichayanprabhul2724@gmail.com or connect on LinkedIn and GitHub. Check out his GitHub profile to explore real-world ML and data science projects."
       ]
         },
         {
